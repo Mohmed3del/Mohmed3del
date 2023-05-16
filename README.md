@@ -19,12 +19,6 @@
 
 ---
 
-<p align="left">
-  <a href="https://linkedin.com/in/mohmed3adel" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30">
-  </a>
-</p>
-
 <h3 align="left">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=25px height=20px></h3>
 
 ---
