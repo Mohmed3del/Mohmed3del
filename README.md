@@ -11,8 +11,13 @@
 </h3>
  -->
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
+Copy
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=🚀+Hello%2C+I'm+Mohmed+Adel!;I'm+a+DevOps+Engineer;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=f0c808&center=true&width=435&lines=🚀+DevOps+Engineer;Hello%2C+I'm+Mohmed+Adel!;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mohmed3del&label=Profile%20views&color=0e75b6&style=flat)
@@ -51,7 +56,6 @@
   <img src="https://raw.githubusercontent.com/Mohmed3del/Mohmed3del/main/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40"/> 
 </a> </p>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmed3del&show_icons=true&locale=en&layout=compact" alt="Mohmed3del" /></p>
