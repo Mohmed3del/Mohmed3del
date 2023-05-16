@@ -12,8 +12,6 @@
  -->
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-Copy
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=f0c808&center=true&width=435&lines=🚀+DevOps+Engineer;Hello%2C+I'm+Mohmed+Adel!;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
