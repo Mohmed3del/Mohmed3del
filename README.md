@@ -13,8 +13,8 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=🚀+Hello%2C+I'm+Mohmed+Adel!;I'm+a+DevOps+Engineer;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>  
-https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines
+</p>
+
 ![Profile views](https://komarev.com/ghpvc/?username=Mohmed3del&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/Mohmed3del?label=Follow&style=social)](https://github.com/Mohmed3del)
 
@@ -27,7 +27,6 @@ https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=219
 </p>
 <!-- https://giphy.com/embed/kgUkCLMu3xhw1T6txv
 <iframe src="https://giphy.com/embed/kgUkCLMu3xhw1T6txv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DigitalHarbor-kgUkCLMu3xhw1T6txv">via GIPHY</a></p> -->
-
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></h3>
@@ -52,7 +51,6 @@ https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=219
   <img src="https://raw.githubusercontent.com/Mohmed3del/Mohmed3del/main/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40"/> 
 </a> </p>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-	
 	
 
 
