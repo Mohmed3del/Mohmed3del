@@ -1,21 +1,47 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Mohmed Adel</h1>
-<h3 align="center">DevOps Engineer</h3>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Mohmed+Adel!;I'm+a+DevOps+Engineer+🚀;Welcome+to+my+profile!" style="color:mix" />
+</p>
+ -->
+<!--  <h3 align="center">
+  Welcome to Mohmed Adel's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+ -->
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Hello%2C+I'm+Mohmed+Adel!;I'm+a+DevOps+Engineer;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>  
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mohmed3del&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/Mohmed3del?label=Follow&style=social)](https://github.com/Mohmed3del)
 
-<div align=center>
+<!-- <div align=center>
         <img src="https://raw.githubusercontent.com/Mohmed3del/Mohmed3del/main/images/DevOps.jpeg" alt="DevOps Engineer" height="300">
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+</p>
+
+
+	
+
+
+ 
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></h3>
 
 - 🔭 I’m currently working on DevOps Projects
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me about DevOps
 - 📫 How to reach me: **mohmed3del1@gmail.com**
 
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohmed3del" alt="Mohmed3del" /></a> </p>
 
-<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></h3>
 
 ---
 
@@ -27,6 +53,8 @@
 <a href="https://grafana.com//" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/Mohmed3del/Mohmed3del/main/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40"/> 
 </a> </p>
+        
+
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmed3del&show_icons=true&locale=en&layout=compact" alt="Mohmed3del" /></p>
@@ -35,3 +63,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohmed3del" alt="Mohmed3del" /></p>
 </div>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
