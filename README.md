@@ -18,13 +18,13 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Mohmed3del&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/Mohmed3del?label=Follow&style=social)](https://github.com/Mohmed3del)
 
-<!-- <div align=center>
+<div align=center>
         <img src="https://raw.githubusercontent.com/Mohmed3del/Mohmed3del/main/images/DevOps.jpeg" alt="DevOps Engineer" height="300">
-</div> -->
+</div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-</p>
+</p> -->
 <!-- https://giphy.com/embed/kgUkCLMu3xhw1T6txv
 <iframe src="https://giphy.com/embed/kgUkCLMu3xhw1T6txv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DigitalHarbor-kgUkCLMu3xhw1T6txv">via GIPHY</a></p> -->
 
@@ -51,7 +51,6 @@
   <img src="https://raw.githubusercontent.com/Mohmed3del/Mohmed3del/main/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40"/> 
 </a> </p>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-	
 
 
 <div align="center">
