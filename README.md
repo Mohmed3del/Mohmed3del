@@ -32,12 +32,21 @@
 <iframe src="https://giphy.com/embed/kgUkCLMu3xhw1T6txv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DigitalHarbor-kgUkCLMu3xhw1T6txv">via GIPHY</a></p> -->
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></h3>
+<h3>🚀About Me:</h3> 
+<h4>  I am a Junior DevOps and Cloud Engineer with experience in cloud infrastructure management, automation,
+and deployment. Proficient in AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform and continuously learning..</h4>
 
-- 🔭 I’m currently working on DevOps Projects
-- 🌱 I’m currently learning DevOps
+
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
+<!-- - 🌱 I’m currently learning DevOps
 - 💬 Ask me about DevOps
-- 📫 How to reach me: **mohmed3del1@gmail.com**
+- 📫 How to reach me: **mohmed3del1@gmail.com** -->
+<h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
+<a href="https://www.linkedin.com/in/mohmed3adel/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mohmed3del1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMail-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br/><br/>
+
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
