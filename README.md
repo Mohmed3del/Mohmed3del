@@ -62,10 +62,16 @@ and deployment. Proficient in AWS, Docker, Kubernetes, Jenkins, Ansible, Terrafo
 </a> </p>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmed3del&show_icons=true&locale=en&layout=compact" alt="Mohmed3del" /></p>
+ <div align="center">
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmed3del&show_icons=true&locale=en&layout=compact" alt="Mohmed3del" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohmed3del&show_icons=true&locale=en" alt="Mohmed3del" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohmed3del&show_icons=true&locale=en" alt="Mohmed3del" /></p>  -->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohmed3del&show_icons=true&locale=en&layout=compact" alt="Mohmed3del" /></p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohmed3del&show_icons=true)   
+
+  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohmed3del" alt="Mohmed3del" /></p>
 </div>
