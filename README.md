@@ -21,10 +21,12 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Mohmed3del&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/Mohmed3del?label=Follow&style=social)](https://github.com/Mohmed3del)
 
-<div align=center>
+<!-- <div align=center>
         <img src="https://raw.githubusercontent.com/Mohmed3del/Mohmed3del/main/images/DevOps.jpeg" alt="DevOps Engineer" height="300">
+</div> -->
+ <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50%" height="10%"/>
 </div>
-
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 </p> -->
