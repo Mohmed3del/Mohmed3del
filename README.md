@@ -38,6 +38,11 @@
 <h4>  I am a Junior DevOps and Cloud Engineer with experience in cloud infrastructure management, automation,
 and deployment. Proficient in AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform and continuously learning..</h4>
 
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eY5RBJ6QADUuK7DPUYKslSdSgl7J5omW/view?usp=drive_link)
+
+
+
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 <!-- - 🌱 I’m currently learning DevOps
