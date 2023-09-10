@@ -39,7 +39,7 @@
 and deployment. Proficient in AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform and continuously learning..</h4>
 
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eY5RBJ6QADUuK7DPUYKslSdSgl7J5omW/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LNOo_ipUF6I0AvLb0o9IR6aGyhXmwAYu/view?usp=sharing)
 
 
 
