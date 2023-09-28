@@ -35,8 +35,9 @@
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 <h3>🚀About Me:</h3> 
-<h4>  I am a Junior DevOps and Cloud Engineer with experience in cloud infrastructure management, automation,
-and deployment. Proficient in AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform and continuously learning..</h4>
+<h4>  I am a Junior DevOps and Cloud Engineer with experience in cloud infrastructure management,
+automation, and deployment. Proficient in AWS, Docker, Kubernetes, Jenkins,
+SonarQube, Trivy, Nexus, Certbot, Argo CD, Ansible,Terraform and continuously learning..</h4>
 
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18Q9ZMJgXUU6E8MCL6-YN8S_ApvonxuO7/view?usp=sharing)
