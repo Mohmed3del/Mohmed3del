@@ -50,7 +50,7 @@ SonarQube, Trivy, Nexus, Certbot, Argo CD, Ansible,Terraform and continuously le
 - 💬 Ask me about DevOps
 - 📫 How to reach me: **mohmed3del1@gmail.com** -->
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
-<a href="https://www.linkedin.com/in/mohmed3adel/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohmed3del/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mohmed3del1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMail-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/><br/>
 
